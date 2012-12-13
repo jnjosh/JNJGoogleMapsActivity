@@ -4,6 +4,8 @@ A couple months ago, I gave a small talk at the [Raleigh, NC CocoaHeads](http://
 
 I'm not sure this is the best use of UIActivity but it was a fun little project, so __feedback is welcome__. I think in the future I might add a view controller to call that allows the developer to display a search field.
 
+The map pin image mask was created with the very awesome [Pictos icons](http://pictos.cc/)
+
 ## Usage ##
 
     JNJGoogleMapsActivity *googleMapsActivity = [[JNJGoogleMapsActivity alloc] init];
